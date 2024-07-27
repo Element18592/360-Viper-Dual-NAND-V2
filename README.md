@@ -10,7 +10,7 @@
 - 2 Available Install Methods
 - No Trace Cuts Required
 - QSB Form Factor (No More Soldering 17 Wires)
-- Works With All 5V Chips That Utilize Any of 15432's Timing Files
+- Works With All 5V Chips That Utilize Any RGH1.2, S-RGH, or EXT_CLK Timing File
 - Works With All 3.3V Chips Utilizing Any Timing File
 - Easily Switch Between NANDs
 
