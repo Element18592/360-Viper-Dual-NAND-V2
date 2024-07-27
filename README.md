@@ -14,6 +14,8 @@
 - Works With All 3.3V Chips Utilizing Any Timing File
 - Easily Switch Between NANDs
 
+PCB Thickness: 0.8mm
+
 ## Product Page
 https://themodshop.co/shop/viperv2
 
