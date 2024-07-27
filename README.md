@@ -6,7 +6,7 @@
 
 - Small Board Footprint
 - 4 Wire Minimum Install
-- Works with 16MB Phats And Slims with Viper Adapters
+- Works with 16MB Jaspers And Slims with Viper Adapters
 - 2 Available Install Methods
 - No Trace Cuts Required
 - QSB Form Factor (No More Soldering 17 Wires)
