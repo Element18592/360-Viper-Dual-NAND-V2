@@ -16,6 +16,8 @@
 
 PCB Thickness: 0.8mm
 
+[Viper RGH 3 QSB](https://github.com/Element18592/360-Viper-V2-RGH-3-QSB)
+
 New Firmware by: Octal450
 
 ## Product Page
