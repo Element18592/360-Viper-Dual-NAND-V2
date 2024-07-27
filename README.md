@@ -16,6 +16,8 @@
 
 PCB Thickness: 0.8mm
 
+New Firmware by: Octal450
+
 ## Product Page
 https://themodshop.co/shop/viperv2
 
